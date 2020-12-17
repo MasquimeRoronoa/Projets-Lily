@@ -1,0 +1,60 @@
+body {background-image: url(https://s1.1zoom.me/b5371/435/Texture_Pink_color_550607_1920x1080.jpg)}
+
+h1 {color: white;
+    border-radius: 20px;
+    background-color: pink;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;}
+
+#imgmainpage {display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width: 800px;}
+#imgenjoy {display: block;
+           margin-left: auto;
+           margin-right: auto;
+           width: 500px;}
+#imgvillage {display: block;
+           margin-left: auto;
+           margin-right: auto;
+           width: 1000px;}
+
+p { color: white;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;}
+
+section {display: block;
+        border-radius: 25px;
+        background-color: pink;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;}
+
+ul {font-size: 30px;}
+
+ul li  {list-style-type: none;
+        text-align: center;}
+
+a {text-decoration: none;
+  color: white;
+  
+  }
+a:hover {background-color: white;
+         color: pink;}
+
+
+nav {
+    text-align: center;}
+
+nav li {display: inline;
+        }
+
+nav a {border: 2px solid;
+      margin-right: 50px;
+      padding-left: 20px;
+      padding-right: 20px;
+      border-color: white;
+      border-radius: 5px;}
